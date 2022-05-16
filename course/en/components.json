@@ -1,0 +1,239 @@
+[
+  {
+    "_component": "accordion",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "What Does Safeguarding Mean?",
+    "displayTitle": "What Does Safeguarding Mean?",
+    "body": "",
+    "_id": "621e1f687e9262389c5d6faa",
+    "_parentId": "621ce8c1f5970e34889d9e38",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Definition",
+        "body": "<p>Safeguarding is a term used to describe the actions needed to protect adults at risk from abuse, harm or neglect. It is an important shared priority of all health and social care services and a key responsibility of local authorities.</p><p>Adult safeguarding involves reducing and preventing the risk of significant harm from abuse, exploitation and neglect to enable people to live in safety, free from harm and have their health, wellbeing and rights and choices respected.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "What is meant by 'an adult at risk'?",
+        "body": "<p>An adult at risk is defined as any person aged 18 and over who:</p><ul><li>has care and support needs</li><li>is experiencing, or is at risk of, harm or neglect</li><li>is unable to protect themselves because of their care and support needs</li></ul><p>They may be:</p><ul><li>an older person</li><li>a person with a physical disability, a learning disability or a sensory impairment</li><li>someone with mental health needs, including dementia or a personality disorder</li><li>a person with a long-term health condition</li><li>someone who misuses substances or alcohol to the extent that it affects their ability to manage day-to-day living</li><li>victims of sexual exploitation, domestic abuse or modern slavery</li><li>someone with communication difficulties.</li></ul>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Aims of safeguarding",
+        "body": "<ul><li>Stop abuse, harm or neglect wherever possible</li><li>Prevent and reduce the risk of abuse, harm or neglect to adults at risk and with care and support needs wherever possible</li><li>Safeguard adults in a way that supports them in making choices and having control about how they want to live using a person-centred and outcomes approach.&nbsp; Working in a person-centred way is an important preventative measure to help safeguard others.</li><li>Promote an approach that concentrates on improving life, safety and wellbeing of the adults concerned.</li><li>Provide information and support in accessible ways to help people understand how to stay safe. Information and communication must comply with the Accessible Information Standard (AIS).</li><li>You have a duty of care to ensure the safety and wellbeing of the individual and address what has caused the abuse, harm or neglect</li></ul>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Who is responsible for safeguarding?",
+        "body": "<p>One of the most important principles of safeguarding is that it is everyone’s responsibility.</p><p>You must do everything you can to ensure that adults at risk are protected from harm.</p><p>You have a duty to report your concern if you think someone is being abused, harmed, exploited or neglected.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true,
+    "_shouldExpandFirstItem": false
+  },
+  {
+    "_component": "accordion",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Legislation and Guidance",
+    "displayTitle": "Legislation and Guidance",
+    "body": "",
+    "_id": "62725e01f0267456e8994302",
+    "_parentId": "62725dcdf0267456e8994301",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "What does the law say?",
+        "body": "<p>The Care Act 2014 came into force in England on 1 April 2015.</p><p>The wellbeing principle is the guiding principle of the Care Act 2014 that puts an individual’s wellbeing at the centre of all care and support. The prevention of abuse and neglect is one of the elements identified as contributing to a person’s wellbeing</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Key legislation relating to safeguarding",
+        "body": "<ul><li>Safeguarding Vulnerable People in the Reformed NHS: Accountability and Assurance Framework (NHS England 2015)</li><li>The Care Act 2014</li><li>The Health and Social Care Act 2008 Regulations 2014 and 2015 (UK)</li><li>The Mental Capacity Act 2005 and Mental Capacity (Amendment) Act 2019 (UK)</li><li>Safeguarding Vulnerable Adults Act 2006</li><li>The Equality Act 2010</li><li>The Human Rights Act 1998</li><li>The Public Interest Disclosure Act 1998</li><li>The Data Protection Act 2018 and General Data Protection Regulation 2016</li><li>Mental Health (Northern Ireland) Order 1986 and Mental Capacity Act&nbsp; (NI) 2016</li><li>Adults with Incapacity (Scotland) Act 2000</li><li>The Modern Slavery Act 2015 (UK)</li><li>The Crime and Disorder Act 1998 (England and Wales)</li><li>Safeguarding is governed by local and national guidelines, as well as legislation.</li></ul>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Policies and Procedures",
+        "body": "<p>Your organisation has safeguarding policies and procedures. It is your responsibility to ensure you have read these and that you understand them. You must follow these policies and procedures at all times if you are concerned about the wellbeing of an adult at risk<strong>.</strong></p><p>You can also access further information about safeguarding adults at risk from our website <a href=\"https://www.safeguardingsolihull.org.uk/ssab/\" target=\"_blank\"><span style=\"color:#0000FF\">Home - Solihull Safeguarding Adults Board (safeguardingsolihull.org.uk)</span></a></p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true,
+    "_shouldExpandFirstItem": false
+  },
+  {
+    "_component": "narrative",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Principles of Safeguarding",
+    "displayTitle": "Principles of Safeguarding",
+    "body": "",
+    "_id": "628221468c0d8f74f8c39937",
+    "_parentId": "628221468c0d8f74f8c39936",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Swipe through each image",
+    "mobileInstruction": "Swipe through each image",
+    "_isTextBelowImage": false,
+    "_isMobileTextBelowImage": false,
+    "_hasNavigationInTextArea": false,
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Empowerment",
+        "_ariaLevel": 0,
+        "body": "<p>People are supported and encouraged to make their own decisions and informed consent</p>",
+        "_graphic": {
+          "src": "course/en/assets/e42d3ed959f30f782919004f29c15e5bd90cf029.png",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": "Click here"
+      },
+      {
+        "title": "Protection",
+        "_ariaLevel": 2,
+        "body": "<p>Support and representation for those in greatest need</p>",
+        "_graphic": {
+          "src": "course/en/assets/687a54df7bea79f6c8861d0300aa9e1b6ef036c7.png",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": "Click here"
+      },
+      {
+        "title": "Prevention",
+        "_ariaLevel": 3,
+        "body": "<p>Prevention of neglect, harm and abuse is a primary objective. It is better to take action before harm occurs</p>",
+        "_graphic": {
+          "src": "course/en/assets/54d63b07ec93892eb7b04efaee913e64ac141785.png",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": "Click here"
+      },
+      {
+        "title": "Proportionality",
+        "_ariaLevel": 4,
+        "body": "<p>Proportionality is about the least intrusive response appropriate to the risk presented</p>",
+        "_graphic": {
+          "src": "course/en/assets/4b56b99ba4f80ed566606428468af7bbe0315bb8.png",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": "Click here"
+      },
+      {
+        "title": "Partnerships",
+        "_ariaLevel": 5,
+        "body": "<p>Develop local solutions through services working with their communities</p><p>Communities have a part to play in preventing, detecting and reporting neglect and abuse</p>",
+        "_graphic": {
+          "src": "course/en/assets/b9e222d929b21b85376fb1f24f65315e835f0a72.png",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": "Click here"
+      },
+      {
+        "title": "Accountabiliy",
+        "_ariaLevel": 6,
+        "body": "<p>Accountability is very important and there must be transparency in delivering safeguarding practice</p>",
+        "_graphic": {
+          "src": "course/en/assets/f5cb508b24b52b0b7b66fac763bc4f3c344e3f72.png",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": "Click here"
+      }
+    ]
+  }
+]
