@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<state xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" name="18/03/2013 15:48:36" g="0c1d5da7-3dba-4407-90c0-42f378567579" context="0" flags="0" type="1" w="720" h="540" fontname="Arial">
+	<components>
+		<component>C:\Program Files\Common Files\Articulate\Shared\1.0\Player.swf</component>
+		<component>C:\Program Files\Common Files\Articulate\Shared\1.0\Frames\ccSmoothFrame.swf</component>
+		<component>C:\Program Files\Common Files\Articulate\Shared\1.0\Windows\ccSmoothWindow.swf</component>
+		<component>C:\Program Files\Common Files\Articulate\Shared\1.0\Windows\ccAudioWindow.swf</component>
+		<component>C:\Program Files\Common Files\Articulate\Shared\1.0\Text\ccText.swf</component>
+		<component>C:\Program Files\Common Files\Articulate\Shared\1.0\Buttons\ccSmoothWndButton.swf</component>
+		<component>C:\Program Files\Common Files\Articulate\Shared\1.0\ImageObject\ccSmoothImage.swf</component>
+		<component>C:\Program Files\Common Files\Articulate\Shared\1.0\Radio Buttons\ccSmoothRadio.swf</component>
+		<component>C:\Program Files\Common Files\Articulate\Shared\1.0\DropLists\ccSmoothDropList.swf</component>
+		<component>C:\Program Files\Common Files\Articulate\Shared\1.0\Check Boxes\ccSmoothCheckbox.swf</component>
+		<component>C:\Program Files\Common Files\Articulate\Shared\1.0\TextInput\ccSmoothTextInput.swf</component>
+		<component>C:\Documents and Settings\ben.gorman\Application Data\Articulate\Presenter\Project\B3DF52D1-953C-4788-8A65-D84F497F1CE2\quizmaker_293\text.swf</component>
+	</components>
+</state>

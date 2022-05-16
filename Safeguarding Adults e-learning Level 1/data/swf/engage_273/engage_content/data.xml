@@ -1,0 +1,27 @@
+<Interaction Type="Community" ContentFolder="proj_content" Title="Who May Abuse?" Numbering="0" animation="fade" contentfont="Articulate" communityguid="{2019442E-9940-40da-A129-ED98C266C8DD}" communityname="Carousel" communityminsteps="1" communitymaxsteps="20" communitymaxcontentwidth="320" communitymaxcontentheight="128" communitymaxmediawidth="320" communitymaxmediaheight="128" communitydefaultmediaposition="left" communitysupportedmediapositions="left,right," communityurl="http://www.builtbyburton.com/carousel" communitypublisherurl="" communitycontentversion="1.6" communitysupportscolorschemes="true" communitysupportsinteractiveplayback="true" communitysupportspresentationplayback="true" communitysupportslinearplayback="true" jpegquality="80" autoplay="false" autoplayduration="5" headingfont="Articulate" navfont="Articulate" soundeffects="true" volumebutton="true" audioquality="low" audiocustombitrate="br112Kbps" audiocustomfrequency="fq12KHz" audiocustomchannel="ccMono" navbuttons="true" forceorder="false" detectflashver="true" version="2.3.1009.1313" borderstyle="round_inset">
+  <steps>
+    <Step id="84356f6e-e29a-4b9d-82cf-e94fd4c03663" name="Introduction" title="" number="0" html="&lt;p align='left'&gt;&lt;font face='Arial' size='13' color=''&gt;Adults at risk may be abused by a wide range of people including relatives and family members, professional staff, paid care workers, volunteers, other service users, neighbours, friends and associates, people who deliberately exploit vulnerable people and strangers. There is often particular concern when abuse is perpetrated by someone in a position of power or authority who uses his or her position to the detriment of the health, safety, welfare and general wellbeing of an adult at risk.&lt;br&gt;&lt;/br&gt;&lt;/font&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;font face='Arial' size='13' color=''&gt;Agencies not only have a responsibility to all adults at risk who have been abused but may also have responsibilities in relation to some people causing harm. The roles, powers and duties of the various agencies in relation to the person causing harm will vary depending on who the person causing harm is.&lt;/font&gt;&lt;/p&gt;" intro="true">
+    </Step>
+    <Step id="d76213d2-11bc-483c-a1ab-8b956834f679" name="Professional Staff" title="" number="1" html="&lt;p align='left'&gt;&lt;font face='Arial' size='13' color=''&gt;Professional staff such as Nurses, GP's, Doctors&lt;/font&gt;&lt;/p&gt;">
+      <image width="52" height="125" zoomheight="520" playbar="false" autoplay="false" zoomwidth="215" zoommode="Embedded" allowzoom="false" align="topright" duration="0" framerate="30" name="image1.jpg" zoomimage="" />
+    </Step>
+    <Step id="ebdb5962-c060-4255-a303-862edb189120" name="Family" title="" number="2" html="&lt;p align='left'&gt;&lt;font face='Arial' size='13' color=''&gt;Family such as partners, siblings, step families, grandchildren.&lt;/font&gt;&lt;/p&gt;">
+      <image width="121" height="127" zoomheight="520" playbar="false" autoplay="false" zoomwidth="495" zoommode="Embedded" allowzoom="false" align="topleft" duration="0" framerate="30" name="image2.jpg" zoomimage="" />
+    </Step>
+    <Step id="f467eea6-0901-4ac3-8a27-443c71d524cb" name="Strangers" title="" number="3" html="&lt;p align='left'&gt;&lt;font face='Arial' size='13' color=''&gt;Strangers such as rogue traders, bogus callers, scam artists&lt;/font&gt;&lt;/p&gt;">
+      <image width="44" height="126" zoomheight="520" playbar="false" autoplay="false" zoomwidth="180" zoommode="Embedded" allowzoom="false" align="topright" duration="0" framerate="30" name="image4.jpg" zoomimage="" />
+    </Step>
+    <Step id="a73efde6-1619-4ad4-aed6-0c2ad021e20d" name="Carers" title="" number="4" html="&lt;p align='left'&gt;&lt;font face='Arial' size='13' color=''&gt;Carers such as paid care workers, family members or friends&lt;/font&gt;&lt;/p&gt;">
+      <image width="128" height="100" zoomheight="520" playbar="false" autoplay="false" zoomwidth="661" zoommode="Embedded" allowzoom="false" align="topleft" duration="0" framerate="30" name="image3.jpg" zoomimage="" />
+    </Step>
+    <Step id="32d5d906-4fb3-467c-9ff1-810499609d02" name="Other service users" title="" number="5" html="&lt;p align='left'&gt;&lt;font face='Arial' size='13' color=''&gt;Other service users&lt;/font&gt;&lt;/p&gt;">
+      <image width="128" height="86" zoomheight="472" playbar="false" autoplay="false" zoomwidth="700" zoommode="Embedded" allowzoom="false" align="topright" duration="0" framerate="30" name="image0.jpg" zoomimage="" />
+    </Step>
+    <Step id="2f7108ca-8043-4416-83ca-778736e0fe68" name="FACT" title="" number="6" html="&lt;p align='left'&gt;&lt;font face='Arial' size='13' color=''&gt;Statistically, the most likely perpetrators are family members or relatives.&lt;/font&gt;&lt;/p&gt;">
+      <image width="128" height="96" zoomheight="520" playbar="false" autoplay="false" zoomwidth="693" zoommode="Embedded" allowzoom="false" align="topleft" duration="0" framerate="30" name="image5.jpg" zoomimage="" />
+    </Step>
+  </steps>
+  <nextslide enabled="False" text="" show="" />
+  <starttip show="false" text="Click next to continue" />
+  <resume id="ab00178c-c44d-4450-a2ca-c50c06994a9c" enabled="false" />
+</Interaction>

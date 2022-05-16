@@ -1,0 +1,11 @@
+<Interaction Type="FAQ" ContentFolder="proj_content" Title="Managing your feelings" Numbering="0" animation="fade" contentfont="Articulate" jpegquality="80" autoplay="false" autoplayduration="5" headingfont="Articulate" navfont="Articulate" soundeffects="true" volumebutton="true" audioquality="low" audiocustombitrate="br112Kbps" audiocustomfrequency="fq12KHz" audiocustomchannel="ccMono" navbuttons="false" forceorder="false" detectflashver="true" version="2.3.1009.1313" borderstyle="round_inset">
+  <Search enabled="false" searchtext="Search" resulttext="found for" />
+  <steps>
+    <Step id="e71bbd8c-34d3-4216-a5af-2d5a9a5d9139" name="Adult abuse is very distressing and disturbing and can make you feel shocked or angry." title="" number="" html="&lt;p align='left'&gt;&lt;font face='Articulate' size='13' color=''&gt;If the person involved is someone close to you, you may find it difficult to accept that the abuse has happened. However it is important to manage your own feelings so that you can react appropriately.&lt;br&gt;&lt;/br&gt;&lt;/font&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;font face='Articulate' size='13' color=''&gt;It may help to talk these issues through with a colleague or a friend so that it is clear where responsibility lies and what contribution you can reasonably be expected to make.&lt;br&gt;&lt;/br&gt;&lt;/font&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;font face='Articulate' size='13' color=''&gt;Remember that you are playing a critical role in the safety of adults at risk.&lt;/font&gt;&lt;/p&gt;" intro="true">
+      <image width="150" height="114" zoomheight="520" playbar="false" autoplay="false" zoomwidth="681" zoommode="Embedded" allowzoom="false" align="bottom" duration="0" framerate="30" name="image3.jpg" zoomimage="" />
+    </Step>
+  </steps>
+  <nextslide enabled="False" text="" show="" />
+  <starttip show="false" text="Click next to continue" />
+  <resume id="2b403533-2b3a-43ba-ab6c-851f9d0437d9" enabled="false" />
+</Interaction>

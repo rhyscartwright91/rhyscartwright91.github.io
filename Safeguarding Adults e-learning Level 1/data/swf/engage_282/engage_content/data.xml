@@ -1,0 +1,56 @@
+<Interaction Type="Guided Image" Title="Types of Abuse:" contentfont="Articulate" dotanimation="spin" defaultimage="false" jpegquality="80" autoplay="false" autoplayduration="5" headingfont="Articulate" navfont="Articulate" soundeffects="true" volumebutton="true" audioquality="low" audiocustombitrate="br112Kbps" audiocustomfrequency="fq12KHz" audiocustomchannel="ccMono" navbuttons="true" forceorder="true" detectflashver="true" animation="fade" version="2.3.1009.1313" borderstyle="round_inset">
+  <arrow color="0x912020" />
+  <diagram src="image1.jpg" percent="30" align="right" originalSource="imageSource1.jpg" width="192" height="288" />
+  <labels>
+    <label panelpos="auto" iconid="1" x="101" y="119">
+      <color name="Red" valuea="0xDD4809" valueb="0x912020" inner="0x5C1414" hovera="0xFCCFBC" hoverb="0xDD4809" />
+      <steps>
+        <Step id="65a3a07f-2b4b-4a70-a389-6b62db839163" name="Indicators of Neglect" title="" number="1" html="&lt;p align='left'&gt;&lt;font face='Articulate' size='13' color=''&gt;Inadequate physical care both of the person and the environment.&lt;/font&gt;&lt;/p&gt;">
+        </Step>
+      </steps>
+    </label>
+    <label panelpos="auto" iconid="1" x="79" y="159">
+      <color name="Red" valuea="0xDD4809" valueb="0x912020" inner="0x5C1414" hovera="0xFCCFBC" hoverb="0xDD4809" />
+      <steps>
+        <Step id="8e6b6132-0001-4c6a-9ff4-23c2adf79c79" name="Indicators of Neglect" title="" number="2" html="&lt;p align='left'&gt;&lt;font face='Articulate' size='13' color=''&gt;Person's physical condition/appearance is poor e.g. pressure ulcers, soiled or wet clothing, malnourished or dehydrated.&lt;/font&gt;&lt;/p&gt;">
+        </Step>
+      </steps>
+    </label>
+    <label panelpos="auto" iconid="1" x="79" y="187">
+      <color name="Red" valuea="0xDD4809" valueb="0x912020" inner="0x5C1414" hovera="0xFCCFBC" hoverb="0xDD4809" />
+      <steps>
+        <Step id="3a792cd1-2fb7-4145-99e3-c3174b154389" name="Indicators of Neglect" title="" number="3" html="&lt;p align='left'&gt;&lt;font face='Articulate' size='13' color=''&gt;Person has inadequate food, clothing, heating, lighting and/or shelter.&lt;/font&gt;&lt;/p&gt;">
+        </Step>
+      </steps>
+    </label>
+    <label panelpos="auto" iconid="1" x="10" y="128">
+      <color name="Red" valuea="0xDD4809" valueb="0x912020" inner="0x5C1414" hovera="0xFCCFBC" hoverb="0xDD4809" />
+      <steps>
+        <Step id="42b65ef5-d33f-41e3-b359-b4aaaa1bbf83" name="Pressure Ulcers" title="" number="4" html="&lt;p align='left'&gt;&lt;font face='Articulate' size='13' color=''&gt;Through neglect, pressure ulcers can develop very quickly and without appropriate intervention they can become very serious. Any pressure ulcer can be painful and cause patient suffering but severe pressure ulcers can destroy the muscle or bone and in extreme cases they can cause infection and become life threatening.&lt;/font&gt;&lt;/p&gt;">
+        </Step>
+      </steps>
+    </label>
+    <label panelpos="auto" iconid="1" x="46" y="168">
+      <color name="Red" valuea="0xDD4809" valueb="0x912020" inner="0x5C1414" hovera="0xFCCFBC" hoverb="0xDD4809" />
+      <steps>
+        <Step id="e928b4c8-8a7c-4cd3-bd53-de31689740c9" name="Self Neglect" title="" number="5" html="&lt;p align='left'&gt;&lt;font face='Articulate' size='13' color=''&gt;Although self neglect is not included in the 'No Secrets' definition of abuse, in such cases this policy will apply where there is deemed to be significant risk to life e.g. where a vulnerable person who has capacity stops caring for themselves and refuses any support or services.&lt;/font&gt;&lt;/p&gt;">
+        </Step>
+      </steps>
+    </label>
+  </labels>
+  <introduction>
+    <steps>
+      <Step id="cbe9a45d-a275-44f3-8e79-91681483d7e2" name="Neglect" title="" number="0" html="&lt;p align='left'&gt;&lt;font face='Articulate' size='13' color=''&gt;Neglect is the withholding deliberately or unintentionally of help or support necessary to carry out daily living tasks. This could include ignoring medical and physical care needs, social or educational support. This could also include the withholding of medication, nutrition and heating.&lt;br&gt;&lt;/br&gt;&lt;/font&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;font face='Articulate' size='13' color=''&gt;It is often hard to determine the point at which a person starts to become neglected. For this reason it is all the more important that any aspects of poor care and treatment are challenged at the earliest opportunity rather than allowing the person concerned to suffer harm through their continuation.&lt;/font&gt;&lt;/p&gt;" intro="true">
+      </Step>
+    </steps>
+  </introduction>
+  <summary>
+    <steps>
+      <Step id="16c12622-c0be-4280-b9e5-91dbf54c2b0e" name="Scenario" title="" number="6" html="&lt;p align='left'&gt;&lt;font face='Articulate' size='13' color=''&gt;A neighbour informs you that she has heard lots of shouting next door and the people in the house have an elderly relative living with them who she hasn’t seen recently. What would you do?&lt;br&gt;&lt;/br&gt;&lt;/font&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;font face='Articulate' size='13' color=''&gt;&lt;u&gt;Answer&lt;/u&gt;&lt;/font&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;font face='Articulate' size='13' color=''&gt;This could be just that the client has gone into hospital or care but it could also be that the client has been hurt therefore refer for an investigation to be carried out.&lt;/font&gt;&lt;/p&gt;" summary="true">
+      </Step>
+    </steps>
+  </summary>
+  <nextslide enabled="False" text="" show="" />
+  <starttip show="true" text="Click next to continue" />
+  <resume id="824260a1-8134-48e8-ac58-bd1ae4b8ad63" enabled="false" />
+</Interaction>

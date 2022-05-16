@@ -1,0 +1,42 @@
+<Interaction Type="Guided Image" Title="Types of Abuse:" contentfont="Articulate" dotanimation="spin" defaultimage="false" jpegquality="80" autoplay="false" autoplayduration="5" headingfont="Articulate" navfont="Articulate" soundeffects="true" volumebutton="true" audioquality="low" audiocustombitrate="br112Kbps" audiocustomfrequency="fq12KHz" audiocustomchannel="ccMono" navbuttons="true" forceorder="true" detectflashver="true" animation="fade" version="2.3.1009.1313" borderstyle="round_inset">
+  <arrow color="0x912020" />
+  <diagram src="image1.jpg" percent="30" align="right" originalSource="imageSource1.jpg" width="192" height="256" />
+  <labels>
+    <label panelpos="auto" iconid="1" x="83" y="96">
+      <color name="Red" valuea="0xDD4809" valueb="0x912020" inner="0x5C1414" hovera="0xFCCFBC" hoverb="0xDD4809" />
+      <steps>
+        <Step id="65a3a07f-2b4b-4a70-a389-6b62db839163" name="Indicators of Physical Abuse" title="" number="1" html="&lt;p align='left'&gt;&lt;font face='Articulate' size='13' color=''&gt;Unexplained or inappropriately explained injuries.&lt;/font&gt;&lt;/p&gt;">
+        </Step>
+      </steps>
+    </label>
+    <label panelpos="auto" iconid="1" x="63" y="193">
+      <color name="Red" valuea="0xDD4809" valueb="0x912020" inner="0x5C1414" hovera="0xFCCFBC" hoverb="0xDD4809" />
+      <steps>
+        <Step id="8e6b6132-0001-4c6a-9ff4-23c2adf79c79" name="Indicators of Physical Abuse" title="" number="2" html="&lt;p align='left'&gt;&lt;font face='Articulate' size='13' color=''&gt;Unexplained injuries, bruises, burns or fractures at different stages of healing or where it is difficult to identify an accidental cause.&lt;/font&gt;&lt;/p&gt;">
+        </Step>
+      </steps>
+    </label>
+    <label panelpos="auto" iconid="1" x="60" y="126">
+      <color name="Red" valuea="0xDD4809" valueb="0x912020" inner="0x5C1414" hovera="0xFCCFBC" hoverb="0xDD4809" />
+      <steps>
+        <Step id="5a0f1f92-092f-4b03-bbba-242abd6fd6a9" name="Indicators of Physical Abuse" title="" number="3" html="&lt;p align='left'&gt;&lt;font face='Articulate' size='13' color=''&gt;Appears frightened in the presence of particular people or quiet and subdued when in presence of carers.&lt;/font&gt;&lt;/p&gt;">
+        </Step>
+      </steps>
+    </label>
+  </labels>
+  <introduction>
+    <steps>
+      <Step id="cbe9a45d-a275-44f3-8e79-91681483d7e2" name="Physical Abuse" title="" number="0" html="&lt;p align='left'&gt;&lt;font face='Articulate' size='13' color=''&gt;Physical abuse is when someone actually harms or hurts another person or causes them discomfort. It may include shaking, pinching, slapping, force-feeding, biting, burning or scalding. It may also involve misuse of medication and restraint or when a person is deprived of their liberty.&lt;br&gt;&lt;/br&gt;&lt;/font&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;font face='Articulate' size='13' color=''&gt;Physical abuse is the highest reported type of abuse in Solihull at present.&lt;/font&gt;&lt;/p&gt;" intro="true">
+      </Step>
+    </steps>
+  </introduction>
+  <summary>
+    <steps>
+      <Step id="c89a1dd5-2afa-44b1-a6e9-b1e6cb4bd931" name="Scenario" title="" number="4" html="&lt;p align='left'&gt;&lt;font face='Articulate' size='13' color=''&gt;An 18 year old man with learning difficulties lives in a semi-supported flat. He has lots of friends who visit. They eat with him, play his games on his Playstation and sometimes stay over. After one such session he has bruises on his arm and there is no food left in the fridge. What are your concerns?&lt;br&gt;&lt;/br&gt;&lt;/font&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;font face='Articulate' size='13' color=''&gt;&lt;u&gt;Answer&lt;/u&gt;&lt;/font&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;font face='Articulate' size='13' color=''&gt;This could be an accident or just as easily be deliberate abuse. Therefore it will need to be referred so it can be investigated.&lt;/font&gt;&lt;/p&gt;" summary="true">
+      </Step>
+    </steps>
+  </summary>
+  <nextslide enabled="False" text="" show="" />
+  <starttip show="true" text="Click next to continue" />
+  <resume id="205d1743-7715-4ed5-9530-f2a258c748b2" enabled="false" />
+</Interaction>

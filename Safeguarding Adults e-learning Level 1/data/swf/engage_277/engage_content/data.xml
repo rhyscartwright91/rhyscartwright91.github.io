@@ -1,0 +1,49 @@
+<Interaction Type="Guided Image" Title="Types of Abuse:" contentfont="Articulate" dotanimation="spin" defaultimage="false" jpegquality="80" autoplay="false" autoplayduration="5" headingfont="Articulate" navfont="Articulate" soundeffects="true" volumebutton="true" audioquality="low" audiocustombitrate="br112Kbps" audiocustomfrequency="fq12KHz" audiocustomchannel="ccMono" navbuttons="true" forceorder="true" detectflashver="true" animation="fade" version="2.3.1009.1313" borderstyle="round_inset">
+  <arrow color="0x912020" />
+  <diagram src="image1.jpg" percent="30" align="right" originalSource="imageSource1.jpg" width="191" height="270" />
+  <labels>
+    <label panelpos="auto" iconid="1" x="132" y="117">
+      <color name="Red" valuea="0xDD4809" valueb="0x912020" inner="0x5C1414" hovera="0xFCCFBC" hoverb="0xDD4809" />
+      <steps>
+        <Step id="65a3a07f-2b4b-4a70-a389-6b62db839163" name="Indicators of Discriminatory Abuse" title="" number="1" html="&lt;p align='left'&gt;&lt;font face='Articulate' size='13' color=''&gt;Being isolated.&lt;/font&gt;&lt;/p&gt;">
+        </Step>
+      </steps>
+    </label>
+    <label panelpos="auto" iconid="1" x="52" y="16">
+      <color name="Red" valuea="0xDD4809" valueb="0x912020" inner="0x5C1414" hovera="0xFCCFBC" hoverb="0xDD4809" />
+      <steps>
+        <Step id="8e6b6132-0001-4c6a-9ff4-23c2adf79c79" name="Indicators of Discriminatory Abuse" title="" number="2" html="&lt;p align='left'&gt;&lt;font face='Articulate' size='13' color=''&gt;Being treated unequally from other users in terms of the provision of care, treatment or services.&lt;/font&gt;&lt;/p&gt;">
+        </Step>
+      </steps>
+    </label>
+    <label panelpos="auto" iconid="1" x="35" y="77">
+      <color name="Red" valuea="0xDD4809" valueb="0x912020" inner="0x5C1414" hovera="0xFCCFBC" hoverb="0xDD4809" />
+      <steps>
+        <Step id="3a792cd1-2fb7-4145-99e3-c3174b154389" name="Indicators of Discriminatory Abuse" title="" number="3" html="&lt;p align='left'&gt;&lt;font face='Articulate' size='13' color=''&gt;Derogatory language and attitudes by carers.&lt;/font&gt;&lt;/p&gt;">
+        </Step>
+      </steps>
+    </label>
+    <label panelpos="auto" iconid="1" x="10" y="45">
+      <color name="Red" valuea="0xDD4809" valueb="0x912020" inner="0x5C1414" hovera="0xFCCFBC" hoverb="0xDD4809" />
+      <steps>
+        <Step id="6c620390-dd17-4a3c-ab88-b22bc09e5129" name="Hate Crime" title="" number="4" html="&lt;p align='left'&gt;&lt;font face='Articulate' size='13' color=''&gt;Hate Crime is any criminal offence committed against a person or property that is motivated by an offender's hatred of someone because of their:&lt;br&gt;&lt;/br&gt;&lt;/font&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;font face='Articulate' size='13' color=''&gt;&lt;textformat tabstops='[0]' indent='-20' leftmargin='40'&gt;•&lt;TAB&gt;&lt;/TAB&gt;race, colour, ethnic origin, nationality or national origins&lt;/textformat&gt;&lt;/font&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;font face='Articulate' size='13' color=''&gt;&lt;textformat tabstops='[0]' indent='-20' leftmargin='40'&gt;•&lt;TAB&gt;&lt;/TAB&gt;religion &lt;/textformat&gt;&lt;/font&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;font face='Articulate' size='13' color=''&gt;&lt;textformat tabstops='[0]' indent='-20' leftmargin='40'&gt;•&lt;TAB&gt;&lt;/TAB&gt;gender or gender identity &lt;/textformat&gt;&lt;/font&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;font face='Articulate' size='13' color=''&gt;&lt;textformat tabstops='[0]' indent='-20' leftmargin='40'&gt;•&lt;TAB&gt;&lt;/TAB&gt;sexual orientation &lt;/textformat&gt;&lt;/font&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;font face='Articulate' size='13' color=''&gt;&lt;textformat tabstops='[0]' indent='-20' leftmargin='40'&gt;•&lt;TAB&gt;&lt;/TAB&gt;disability.&lt;br&gt;&lt;/br&gt;&lt;/textformat&gt;&lt;/font&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;font face='Articulate' size='13' color=''&gt;Hate crime can take many forms including:&lt;br&gt;&lt;/br&gt;&lt;/font&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;font face='Articulate' size='13' color=''&gt;&lt;textformat tabstops='[0]' indent='-20' leftmargin='40'&gt;•&lt;TAB&gt;&lt;/TAB&gt;physical attacks&lt;/textformat&gt;&lt;/font&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;font face='Articulate' size='13' color=''&gt;&lt;textformat tabstops='[0]' indent='-20' leftmargin='40'&gt;•&lt;TAB&gt;&lt;/TAB&gt;threat of attack&lt;/textformat&gt;&lt;/font&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;font face='Articulate' size='13' color=''&gt;&lt;textformat tabstops='[0]' indent='-20' leftmargin='40'&gt;•&lt;TAB&gt;&lt;/TAB&gt;verbal abuse or insults.&lt;/textformat&gt;&lt;/font&gt;&lt;/p&gt;">
+        </Step>
+      </steps>
+    </label>
+  </labels>
+  <introduction>
+    <steps>
+      <Step id="cbe9a45d-a275-44f3-8e79-91681483d7e2" name="Discriminatory Abuse" title="" number="0" html="&lt;p align='left'&gt;&lt;font face='Articulate' size='13' color=''&gt;Discriminatory abuse is motivated by prejudice and oppressive attitudes towards race, gender, age, cultural background, religion, disability or sexual orientation. This may also be the motivating factor behind other types of abuse. &lt;/font&gt;&lt;/p&gt;" intro="true">
+      </Step>
+    </steps>
+  </introduction>
+  <summary>
+    <steps>
+      <Step id="c5bfc854-948a-42c1-a8e8-a4a18572acd1" name="Scenario" title="" number="5" html="&lt;p align='left'&gt;&lt;font face='Articulate' size='13' color=''&gt;David is aged 40 and lives in semi independent accommodation for adults who had learning disabilities. He attends college twice a week and travels there on public transport. He was waiting for the bus one morning when a group of teenagers approached him and began insulting him and calling him derogatory names . When the bus arrived they pushed past him to get on.&lt;/font&gt;&lt;/p&gt;" summary="true">
+      </Step>
+    </steps>
+  </summary>
+  <nextslide enabled="False" text="" show="" />
+  <starttip show="true" text="Click next to continue" />
+  <resume id="fcb9b4bd-5135-4dbc-8955-9821a571447b" enabled="false" />
+</Interaction>

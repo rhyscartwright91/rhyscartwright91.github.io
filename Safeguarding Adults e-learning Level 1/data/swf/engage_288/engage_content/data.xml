@@ -1,0 +1,69 @@
+<Interaction Type="Circle Diagram" Title="Do's and Dont's when abuse is disclosed" contentfont="Articulate" jpegquality="80" autoplay="false" autoplayduration="5" headingfont="Articulate" navfont="Articulate" soundeffects="true" volumebutton="true" audioquality="low" audiocustombitrate="br112Kbps" audiocustomfrequency="fq12KHz" audiocustomchannel="ccMono" navbuttons="true" forceorder="false" detectflashver="true" animation="fade" version="2.3.1009.1313" borderstyle="round_inset">
+  <autoplayorder startring="outer" clockwise="true" />
+  <introduction>
+    <Step id="c2373fdb-4bc0-4801-a463-8f15da24ce42" name="Introduction" title="" number="" html="&lt;p align='left'&gt;&lt;font face='Articulate' size='13' color='#000000'&gt;Click each segment to reveal the do's and dont's when abuse is disclosed.&lt;/font&gt;&lt;/p&gt;" intro="true">
+    </Step>
+  </introduction>
+  <circles align="right">
+    <circle>
+      <color name="Blue" valuea="0x33CCFF" valueb="0x003399" inner="0x000000" hovera="0x79FFE1" hoverb="0x01A7A7" />
+      <slices>
+        <slice startangle="0" endangle="360" />
+      </slices>
+      <steps>
+        <Step id="ae376813-fbe2-42fb-bd96-99701cc4f246" name="Do's and Don'ts" title="" number="" html="&lt;p align='left'&gt;&lt;font face='Articulate' size='13' color='#000000'&gt;If in doubt, report the concern.&lt;/font&gt;&lt;/p&gt;">
+        </Step>
+      </steps>
+    </circle>
+    <circle>
+      <color name="Red" valuea="0xDD4809" valueb="0x912020" inner="0x5C1414" hovera="0xFCCFBC" hoverb="0xDD4809" />
+      <slices>
+        <slice startangle="45" endangle="117" />
+        <slice startangle="117" endangle="189" />
+        <slice startangle="189" endangle="261" />
+        <slice startangle="261" endangle="333" />
+        <slice startangle="333" endangle="405" />
+      </slices>
+      <steps>
+        <Step id="fb5c8d49-31f9-478f-974e-4b1d91ed2f93" name="Don't" title="" number="" html="&lt;p align='left'&gt;&lt;font face='Articulate' size='13' color='#000000'&gt;Question or put pressure on the person for more details.&lt;/font&gt;&lt;/p&gt;">
+        </Step>
+        <Step id="728b125b-3395-4c3d-acbe-6ab2524b57f9" name="Don't" title="" number="" html="&lt;p align='left'&gt;&lt;font face='Articulate' size='13' color='#000000'&gt;Act in a way that may prevent the person talking about the abuse in future.&lt;/font&gt;&lt;/p&gt;">
+        </Step>
+        <Step id="62eaa446-24e7-453a-86dc-61cc130f3acd" name="Don't" title="" number="" html="&lt;p align='left'&gt;&lt;font face='Articulate' size='13' color=''&gt;Promise to keep secrets.&lt;/font&gt;&lt;/p&gt;">
+        </Step>
+        <Step id="0db7bd45-fd9a-4d13-a1c2-e777f8dc1a8a" name="Don't" title="" number="" html="&lt;p align='left'&gt;&lt;font face='Articulate' size='13' color=''&gt;Make promises you can't keep (e.g. it wont happen again)&lt;/font&gt;&lt;/p&gt;">
+        </Step>
+        <Step id="f89a1d05-d1a9-414b-ab43-16e9eda2ccbd" name="Don't" title="" number="" html="&lt;p align='left'&gt;&lt;font face='Articulate' size='13' color=''&gt;Question the alleged person causing harm.&lt;/font&gt;&lt;/p&gt;">
+        </Step>
+      </steps>
+    </circle>
+    <circle>
+      <color name="Green" valuea="0x99CC00" valueb="0x006600" inner="0x002F00" hovera="0xFFFFFF" hoverb="0x99CC00" />
+      <slices>
+        <slice startangle="90" endangle="150" />
+        <slice startangle="150" endangle="210" />
+        <slice startangle="210" endangle="270" />
+        <slice startangle="270" endangle="330" />
+        <slice startangle="330" endangle="390" />
+        <slice startangle="390" endangle="450" />
+      </slices>
+      <steps>
+        <Step id="a18e4d30-48e6-4b0d-b771-2b6eb02e847d" name="Do" title="" number="" html="&lt;p align='left'&gt;&lt;font face='Articulate' size='13' color='#000000'&gt;Listen carefully, stay calm and be sympathetic.&lt;/font&gt;&lt;/p&gt;">
+        </Step>
+        <Step id="1dc17755-1e80-423e-8666-c5c83025c2e0" name="Do" title="" number="" html="&lt;p align='left'&gt;&lt;font face='Articulate' size='13' color='#000000'&gt;Be aware that medical evidence may be needed.&lt;/font&gt;&lt;/p&gt;">
+        </Step>
+        <Step id="bf53a2d2-f71e-4998-83ea-c7e519254dd6" name="Do" title="" number="" html="&lt;p align='left'&gt;&lt;font face='Articulate' size='13' color='#000000'&gt;Reassure the person that the information will be treated seriously.&lt;/font&gt;&lt;/p&gt;">
+        </Step>
+        <Step id="e5b9297d-93c0-44f1-85eb-c45ebc9e1b66" name="Do" title="" number="" html="&lt;p align='left'&gt;&lt;font face='Articulate' size='13' color=''&gt;Tell the person it was not their fault.&lt;/font&gt;&lt;/p&gt;">
+        </Step>
+        <Step id="09b6a771-5dbb-4275-936f-cb622bd8c54c" name="Do" title="" number="" html="&lt;p align='left'&gt;&lt;font face='Articulate' size='13' color=''&gt;Explain the referral process and that a line manager has to be informed.&lt;/font&gt;&lt;/p&gt;">
+        </Step>
+        <Step id="ac5c6551-c969-4446-ab18-877c7ca724a3" name="Do" title="" number="" html="&lt;p align='left'&gt;&lt;font face='Articulate' size='13' color=''&gt;Explain that in some circumstances the matter may have to be referred without their consent, but their wishes will be made clear if this occurs.&lt;/font&gt;&lt;/p&gt;">
+        </Step>
+      </steps>
+    </circle>
+  </circles>
+  <nextslide enabled="False" text="" show="" />
+  <starttip show="true" text="Click next to continue" />
+  <resume id="33d61e91-baea-4568-a90a-d41d8706e061" enabled="false" />
+</Interaction>

@@ -1,0 +1,42 @@
+<Interaction Type="Guided Image" Title="Types of Abuse:" contentfont="Articulate" dotanimation="spin" defaultimage="false" jpegquality="80" autoplay="false" autoplayduration="5" headingfont="Articulate" navfont="Articulate" soundeffects="true" volumebutton="true" audioquality="low" audiocustombitrate="br112Kbps" audiocustomfrequency="fq12KHz" audiocustomchannel="ccMono" navbuttons="true" forceorder="true" detectflashver="true" animation="fade" version="2.3.1009.1313" borderstyle="round_inset">
+  <arrow color="0x912020" />
+  <diagram src="image2.jpg" percent="30" align="right" originalSource="imageSource2.jpg" width="192" height="144" />
+  <labels>
+    <label panelpos="auto" iconid="1" x="55" y="129">
+      <color name="Red" valuea="0xDD4809" valueb="0x912020" inner="0x5C1414" hovera="0xFCCFBC" hoverb="0xDD4809" />
+      <steps>
+        <Step id="65a3a07f-2b4b-4a70-a389-6b62db839163" name="Indicators of Psychological/Emotional abuse" title="" number="1" html="&lt;p align='left'&gt;&lt;font face='Articulate' size='13' color=''&gt;Change in appetite / unusual weight loss or gain.&lt;/font&gt;&lt;/p&gt;">
+        </Step>
+      </steps>
+    </label>
+    <label panelpos="auto" iconid="1" x="78" y="67">
+      <color name="Red" valuea="0xDD4809" valueb="0x912020" inner="0x5C1414" hovera="0xFCCFBC" hoverb="0xDD4809" />
+      <steps>
+        <Step id="8e6b6132-0001-4c6a-9ff4-23c2adf79c79" name="Indicators of Psychological/Emotional abuse" title="" number="2" html="&lt;p align='left'&gt;&lt;font face='Articulate' size='13' color=''&gt;Low self esteem.&lt;/font&gt;&lt;/p&gt;">
+        </Step>
+      </steps>
+    </label>
+    <label panelpos="auto" iconid="1" x="91" y="97">
+      <color name="Red" valuea="0xDD4809" valueb="0x912020" inner="0x5C1414" hovera="0xFCCFBC" hoverb="0xDD4809" />
+      <steps>
+        <Step id="3a792cd1-2fb7-4145-99e3-c3174b154389" name="Indicators of Psychological/Emotional abuse" title="" number="3" html="&lt;p align='left'&gt;&lt;font face='Articulate' size='13' color=''&gt;Unexplained uneasiness particularly in the presence of an alleged person causing harm.&lt;/font&gt;&lt;/p&gt;">
+        </Step>
+      </steps>
+    </label>
+  </labels>
+  <introduction>
+    <steps>
+      <Step id="cbe9a45d-a275-44f3-8e79-91681483d7e2" name="Psychological/Emotional" title="" number="0" html="&lt;p align='left'&gt;&lt;font face='Articulate' size='13' color=''&gt;Psychological abuse is also referred to as emotional abuse.  It includes the use of intimidation, rejection, threats, shouting, humiliation, coercion and controlling behaviour. This will include oppressive language, the denial of choice, deprivation of dignity, privacy or contact. It could include withdrawal from services or supportive networks, harassment, being threatened or intimidated or being made to fear for their well being.&lt;/font&gt;&lt;/p&gt;" intro="true">
+      </Step>
+    </steps>
+  </introduction>
+  <summary>
+    <steps>
+      <Step id="42517d33-a070-4225-9ebe-193e8bea4879" name="Scenario" title="" number="4" html="&lt;p align='left'&gt;&lt;font face='Articulate' size='13' color=''&gt;You visit a service user who has physical disabilities. Her main carer is her husband who seems very reluctant to let her speak to you without him present. The service user appears rather nervous and agitated when her husband attempts to answer questions for her. He says that they are not in need of any additional support and encourages the worker to leave as quickly as possible.&lt;br&gt;&lt;/br&gt;&lt;/font&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;font face='Articulate' size='13' color=''&gt;&lt;u&gt;Answer&lt;/u&gt;&lt;/font&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;font face='Articulate' size='13' color=''&gt;It might be that the arrangements at home are satisfactory for both of them. However it would be advisable to find a reason for you to speak to her alone to check this out and to assure yourself that she does not feel under pressure/coerced to say what he wants her to say.&lt;/font&gt;&lt;/p&gt;" summary="true">
+      </Step>
+    </steps>
+  </summary>
+  <nextslide enabled="False" text="" show="" />
+  <starttip show="true" text="Click next to continue" />
+  <resume id="bf57c6d9-804b-45a3-bd5d-bf4d351a95b5" enabled="false" />
+</Interaction>

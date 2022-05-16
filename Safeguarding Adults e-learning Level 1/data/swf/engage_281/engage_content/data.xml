@@ -1,0 +1,49 @@
+<Interaction Type="Guided Image" Title="Types of Abuse:" contentfont="Articulate" dotanimation="spin" defaultimage="false" jpegquality="80" autoplay="false" autoplayduration="5" headingfont="Articulate" navfont="Articulate" soundeffects="true" volumebutton="true" audioquality="low" audiocustombitrate="br112Kbps" audiocustomfrequency="fq12KHz" audiocustomchannel="ccMono" navbuttons="true" forceorder="true" detectflashver="true" animation="fade" version="2.3.1009.1313" borderstyle="round_inset">
+  <arrow color="0x912020" />
+  <diagram src="image0.jpg" percent="30" align="right" originalSource="imageSource0.gif" width="192" height="136" />
+  <labels>
+    <label panelpos="auto" iconid="1" x="150" y="42">
+      <color name="Red" valuea="0xDD4809" valueb="0x912020" inner="0x5C1414" hovera="0xFCCFBC" hoverb="0xDD4809" />
+      <steps>
+        <Step id="65a3a07f-2b4b-4a70-a389-6b62db839163" name="Indicators of Institutional Abuse" title="" number="1" html="&lt;p align='left'&gt;&lt;font face='Articulate' size='13' color=''&gt;Lack of privacy, dignity or choice for individual care practices.&lt;/font&gt;&lt;/p&gt;">
+        </Step>
+      </steps>
+    </label>
+    <label panelpos="auto" iconid="1" x="60" y="53">
+      <color name="Red" valuea="0xDD4809" valueb="0x912020" inner="0x5C1414" hovera="0xFCCFBC" hoverb="0xDD4809" />
+      <steps>
+        <Step id="8e6b6132-0001-4c6a-9ff4-23c2adf79c79" name="Indicators of Institutional Abuse" title="" number="2" html="&lt;p align='left'&gt;&lt;font face='Articulate' size='13' color=''&gt;Strict, regimented or inflexible routines or schedules for daily activities such as meal times, bed/awakening times, bathing/washing, going to the toilet.&lt;/font&gt;&lt;/p&gt;">
+        </Step>
+      </steps>
+    </label>
+    <label panelpos="auto" iconid="1" x="93" y="26">
+      <color name="Red" valuea="0xDD4809" valueb="0x912020" inner="0x5C1414" hovera="0xFCCFBC" hoverb="0xDD4809" />
+      <steps>
+        <Step id="3a792cd1-2fb7-4145-99e3-c3174b154389" name="Indicators of Institutional Abuse" title="" number="3" html="&lt;p align='left'&gt;&lt;font face='Articulate' size='13' color=''&gt;Unwelcoming, stark surroundings and lack of stimulation.&lt;/font&gt;&lt;/p&gt;">
+        </Step>
+      </steps>
+    </label>
+    <label panelpos="auto" iconid="1" x="-42" y="32">
+      <color name="Red" valuea="0xDD4809" valueb="0x912020" inner="0x5C1414" hovera="0xFCCFBC" hoverb="0xDD4809" />
+      <steps>
+        <Step id="0d566deb-0bcf-4ce8-bc16-87ce5f0f46f6" name="The Dignity Challenge" title="" number="4" html="&lt;p align='left'&gt;&lt;font face='Articulate' size='13' color=''&gt;The dignity challenge is a national campaign to promote best standards of care in services for adults at risk. The challenge encourages carers to meet 10 key standards which include:-&lt;br&gt;&lt;/br&gt;&lt;/font&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;font face='Articulate' size='13' color=''&gt;&lt;textformat tabstops='[0]' indent='-20' leftmargin='40'&gt;•&lt;TAB&gt;&lt;/TAB&gt;Have a zero tolerance of all forms of abuse &lt;/textformat&gt;&lt;/font&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;font face='Articulate' size='13' color=''&gt;&lt;textformat tabstops='[0]' indent='-20' leftmargin='40'&gt;•&lt;TAB&gt;&lt;/TAB&gt;Support people with the same respect you would want for yourself or a member of your family &lt;/textformat&gt;&lt;/font&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat tabstops='[0]' indent='-20' leftmargin='40'&gt;&lt;font face='Articulate' size='15' color=''&gt;•&lt;TAB&gt;&lt;/TAB&gt;&lt;/font&gt;&lt;font face='Articulate' size='13' color=''&gt;Treat each person as an individual by offering a personalised service &lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat tabstops='[0]' indent='-20' leftmargin='40'&gt;&lt;font face='Articulate' size='13' color=''&gt;•&lt;TAB&gt;&lt;/TAB&gt;Enable people to maintain the maximum possible level of independence, choice and control &lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat tabstops='[0]' indent='-20' leftmargin='40'&gt;&lt;font face='Articulate' size='13' color=''&gt;•&lt;TAB&gt;&lt;/TAB&gt;Listen &amp;amp; support people to express their needs &amp;amp; wants &lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat tabstops='[0]' indent='-20' leftmargin='40'&gt;&lt;font face='Articulate' size='13' color=''&gt;•&lt;TAB&gt;&lt;/TAB&gt;Respect People's Right to Privacy &lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat tabstops='[0]' indent='-20' leftmargin='40'&gt;&lt;font face='Articulate' size='13' color=''&gt;•&lt;TAB&gt;&lt;/TAB&gt;Ensure People feel able to complain without fear of retribution &lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat tabstops='[0]' indent='-20' leftmargin='40'&gt;&lt;font face='Articulate' size='13' color=''&gt;•&lt;TAB&gt;&lt;/TAB&gt;Engage with family members and carers as care partners &lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat tabstops='[0]' indent='-20' leftmargin='40'&gt;&lt;font face='Articulate' size='13' color=''&gt;•&lt;TAB&gt;&lt;/TAB&gt;Assist people to maintain confidence and a positive self-esteem &lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat tabstops='[0]' indent='-20' leftmargin='40'&gt;&lt;font face='Articulate' size='13' color=''&gt;•&lt;TAB&gt;&lt;/TAB&gt;Act to alleviate people's loneliness and isolation.&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;">
+        </Step>
+      </steps>
+    </label>
+  </labels>
+  <introduction>
+    <steps>
+      <Step id="cbe9a45d-a275-44f3-8e79-91681483d7e2" name="Institutional Abuse" title="" number="0" html="&lt;p align='left'&gt;&lt;font face='Articulate' size='13' color=''&gt;Institutional abuse is the mistreatment of people bought about by poor or inadequate care or support or systematic poor practice that affects the whole care setting.&lt;br&gt;&lt;/br&gt;&lt;/font&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;font face='Articulate' size='13' color=''&gt;It occurs when the individual’s wishes and needs are sacrificed for the smooth running of a group, service or organisation.&lt;br&gt;&lt;/br&gt;&lt;/font&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;font face='Articulate' size='13' color=''&gt;It is more likely to occur where staff are inadequately trained, poorly supervised, not supported by management and have poor communication skills.  The institution operates a 'closed' culture, for example a care setting where new ideas, visitors, care management or other professional involvement is discouraged.&lt;br&gt;&lt;/br&gt;&lt;/font&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;font face='Articulate' size='13' color=''&gt;Institutional abuse can happen in hospitals, care and nursing homes and in the practices of domiciliary care agencies.&lt;/font&gt;&lt;/p&gt;" intro="true">
+      </Step>
+    </steps>
+  </introduction>
+  <summary>
+    <steps>
+      <Step id="6fa7f1d7-3b55-4cff-af24-93d9dc36f577" name="Scenario" title="" number="5" html="&lt;p align='left'&gt;&lt;font face='Articulate' size='13' color=''&gt;You visit a care home and notice that the staff begin changing the service users into their night clothes at 6pm. There are ‘set’ bath times and a rota for the hairdresser on the message board. What are your concerns?&lt;br&gt;&lt;/br&gt;&lt;/font&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;font face='Articulate' size='13' color=''&gt;&lt;u&gt;Answer&lt;/u&gt;&lt;/font&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;font face='Articulate' size='13' color=''&gt;It might be that some service users choose to change this early but very unlikely that they all want to! Also the practises seem very rigid and lack individual choices. The home would need to be investigated further.&lt;/font&gt;&lt;/p&gt;" summary="true">
+      </Step>
+    </steps>
+  </summary>
+  <nextslide enabled="False" text="" show="" />
+  <starttip show="true" text="Click next to continue" />
+  <resume id="bf961244-afe3-4c98-a0aa-8eeddf7fc648" enabled="false" />
+</Interaction>
